@@ -14,3 +14,8 @@ Want to edit the logged messages?
 edit any of iwork1 to iwork8 to contain a new message to store.
 
 SQLite must be setup and properly installed for code to compile. 
+
+Code completed for an individual assignment in Western University course CS3307A.
+Grade Recieved: 95%
+Submitted October 6th 2022. 
+
